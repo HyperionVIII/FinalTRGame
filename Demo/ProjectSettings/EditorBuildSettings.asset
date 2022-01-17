@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/First Level.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Age.unity
+    guid: 39a85467cc884ee4283194ebdd134862
+  - enabled: 1
+    path: Assets/Scenes/ChangePic.unity
+    guid: 46ad583e910da1b40a5203353028194b
+  - enabled: 1
+    path: Assets/Scenes/ChangeUsername.unity
+    guid: fa3a9a5a1e1f21e489edaf4a081620c0
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9057c44c729998f48ad5f0b745deae62
+  - enabled: 1
+    path: Assets/Scenes/PauseMenu.unity
+    guid: f2dbddf485866e240a2f951db5e72b28
+  - enabled: 1
+    path: Assets/Scenes/SignInScene.unity
+    guid: 9d1c6ae9e48648046a80cdb633e099ce
+  - enabled: 1
+    path: Assets/Scenes/Sounds.unity
+    guid: 5beec45c68b20424f96a843193cbff66
+  - enabled: 1
+    path: Assets/Scenes/Account.unity
+    guid: 3135afbe0e60fb24c9c87cfd7c853775
+  - enabled: 1
+    path: Assets/Scenes/Cridets.unity
+    guid: a0965d27d9a69c44bb14eeb4ce6650fb
+  - enabled: 1
+    path: Assets/2D Platformer Asset Pack/Levels/Level 2.unity
+    guid: 00b58543a58d79544abfb4b762ae5ee9
+  - enabled: 1
+    path: Assets/2D Platformer Asset Pack/Levels/Level 3.unity
+    guid: 4f2eb94a48dbf1b428b36d197fe11ebf
+  m_configObjects: {}
